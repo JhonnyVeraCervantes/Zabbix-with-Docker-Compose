@@ -20,7 +20,11 @@ Debe tener instalador Docker :whale2: y Docker Compose en el sistema.
 
 ```sh
 git clone https://github.com/JhonnyVeraCervantes/Zabbix-with-Docker-Compose.git
+```
+```sh
 cd Zabbix-with-Docker-Compose
+```
+```sh
 docker-compose up -d
 ```
 
